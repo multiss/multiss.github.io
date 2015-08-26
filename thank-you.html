@@ -12,15 +12,20 @@
 			<div id="banner" role="banner">
 			</div>
 			<div id="newsletter-box">
-				<form name="newsletter-form" action="http://formspree.io/webform@siegsieg.com" method="post">
-					<label for="newsletter-email">Newsletter:</label>
-					<input type="email" id="newsletter-email" class="newsletter-email" name="email" required="required" placeholder="Your email" />
-					<input type="submit" name="submit" value="Submit" />
+				<form id="newsletter-form" method="POST">
+					<label for="newsletter-email">Newsletter sign-up:</label>
+					<input type="text" name="name" placeholder="First & Last Name">
+					<input type="email" name="_replyto" placeholder="Your email">
+					<input type="hidden" name="_subject" value="Newsletter Sign-Up!" />
 					<input type="hidden" name="_next" value="http://siegsieg.com/thank-you.html"/>
-					<input type="hidden" name="_subject" value="Newsletter Sign-Up!"/>
+					<input type="text" name="_gotcha" style="display:none" />
 					<input type="hidden" name="_cc" value="records@siegsieg.com"/>
-					<input type="text" name="_gotcha" style="display:none"/>
+					<input type="submit" value="Submit">
 				</form>
+				<script>
+					var newsletter-form =  document.getElementById('newsletter-form');
+						newsletter-form.setAttribute('action', '//formspree.io/' + 'webform' + '@' + 'siegsieg' + '.' + 'com');
+				</script>
 			</div>
 		</header>
 		<nav class="menu">
