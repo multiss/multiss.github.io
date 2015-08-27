@@ -1,17 +1,58 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 	<head>
 		<meta charset="UTF-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>SIEGSIEG</title>
+
 		<link rel="stylesheet" href="css/common.css" type="text/css" />
 		<link rel="stylesheet" href="css/responsive.css" type="text/css" />
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+		<!-- Include jQuery -->
+		<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+		<style type='text/css'>
+		/* CSS will go here... */
+		</style>
+		<!-- <script type='text/javascript'>
+		//<![CDATA[ 
+		/* JavaScript code will go here */
+		//]]> -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/demo.styledthemes.com\/lavish\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<!-- </script> -->
+
 	</head>
 	<body>
+		<div class="lavish_logo"><!--Logo Starts Here -->
+			<div id="la-logo-group">
+				<a href="http://demo.styledthemes.com/lavish/" title="Lavish" rel="home">
+					<img class="img-responsive" src="http://demo.styledthemes.com/lavish/wp-content/themes/lavish-pro/images/lavish-logo.png" width="auto" height="70" alt="Lavish" style="height:65px;" />
+				</a>
+			</div>
+		</div><!--End of Logo Here -->
 		<header>
 			<div id="banner" role="banner">
 			</div>
-			<div id="newsletter-box">
+			<!-- //<![CDATA[
+			div id="newsletter-box">
 				<form id="newsletter-form" method="POST">
 					<label for="newsletter-email">Newsletter sign-up:</label>
 					<input type="text" name="name" placeholder="First & Last Name">
@@ -26,6 +67,17 @@
 					var newsletter-form =  document.getElementById('newsletter-form');
 						newsletter-form.setAttribute('action', '//formspree.io/' + 'webform' + '@' + 'siegsieg' + '.' + 'com');
 				</script>
+			</div> -->
+			<div id="newsletter-box">
+				<form name="newsletter-form" action="http://formspree.io/webform@siegsieg.com" method="post">
+					<label for="newsletter-email">Newsletter:</label>
+					<input type="email" id="newsletter-email" class="newsletter-email" name="email" required="required" placeholder="Your email" />
+					<input type="submit" name="submit" value="Submit" />
+					<input type="hidden" name="_next" value="http://siegsieg.com/thank-you.html"/>
+					<input type="hidden" name="_subject" value="Newsletter Sign-Up!"/>
+					<input type="hidden" name="_cc" value="records@siegsieg.com"/>
+					<input type="text" name="_gotcha" style="display:none"/>
+				</form>
 			</div>
 		</header>
 		<nav class="menu">
