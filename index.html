@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-US">
 	<head>
-		<meta charset="UTF-8"/>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>SIEGSIEG</title>
 
+		<!-- Start Favicons -->
 		<link rel="stylesheet" href="css/common.css" type="text/css" />
 		<link rel="stylesheet" href="css/responsive.css" type="text/css" />
 		<link rel="apple-touch-icon" sizes="57x57" href="images/apple-icon-57x57.png">
@@ -23,12 +24,76 @@
 		<link rel="manifest" href="/manifest.json">
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="msapplication-TileImage" content="images/ms-icon-144x144.png">
+		<!-- End Favicons -->
+
 		<meta name="theme-color" content="#ffffff">
 		<!-- Include jQuery -->
-		<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+		<!-- Start floating navigation -->
+		<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'>
+		</script>
+		<!-- End floating navigation -->
 		<style type='text/css'>
-		/* CSS will go here... */
+		<!-- Start floating navigation -->
+		body {
+			background-color: #333;
+			color: #999;
+			font: 12px/1.4em Arial,sans-serif;
+			}
+		#wrap {
+			margin: 10px auto;
+			background: #666;
+			padding: 10px;
+			width: 700px;
+			}
+		#header {
+			background-color: #FFF;
+			color: #FFF;
+			}
+		#logo {
+			font-size: 30px;
+			line-height: 40px;
+			padding: 5px;
+			}
+		#navWrap {
+			height: 30px;
+			}
+			#nav {
+				padding: 5px;
+				background: #000;
+				}
+			#nav ul {
+				margin: 0;
+				padding: 0;
+				}
+			#nav li {
+				float: left;
+				padding: 3px 8px;
+				background-color: #000;
+				margin: 0 10px 0 0;
+				color: #F00;
+				list-style-type: none;
+				}
+			#nav li a {
+				color: #F00;
+				text-decoration: none;
+				}
+			#nav li a:hover {
+				text-decoration: underline;
+				}
+			br.clearLeft {
+				clear: left;
+				}
+			.bigNum {
+				font-size: 20px;
+				color: #000;
+				background: #FFF;
+				padding: 2px;
+				}
 		</style>
+		<!-- End floating navigation -->
+
+		<!-- /* CSS will go here... */
+		</style>  -->
 		<!-- <script type='text/javascript'>
 		//<![CDATA[ 
 		/* JavaScript code will go here */
@@ -116,12 +181,23 @@
 	</head>
 	<body>
 		<div id="header">
-			<div id="logo">Start Slowly Scrolling Down<br /> This Page!</div>
+			<div id="logo"><!-- Start Slowly Scrolling Down<br /> This Page! -->
+			</div>
 			<div id="navWrap">
 				<div id="nav">
-					<ul>
-						<li><a href="#1" class="smoothScroll">Item 1</a></li>
-						<li><a href="#2" class="smoothScroll">Item 2</a></li>
+					<ul class="menu-list">
+						<li class="menu-item">
+							<a href="#1" class="smoothScroll">
+								<div class="siegsieg_logo"><!--Logo Starts Here -->
+									<div id="ss-logo-group">
+										<a href="http://siegsieg.com/" title="SIEGSIEG" rel="home">
+											<img class="img-responsive" src="http://siegsieg.com/images/siegsieg-logo.png" width="auto" height="70" alt="SIEGSIEG" style="height:65px;" />
+										</a>
+									</div>
+								</div><!--End of Logo Here -->
+							</a>
+						</li>
+						<li class="menu-item"><a class="menu-item-link" href="./homepage" title="Homepage">Homepage</a></li>
 						<li><a href="#3" class="smoothScroll">Item 3</a></li>
                         <li><a href="#4" class="smoothScroll">Item 4</a></li>
                     </ul>
@@ -129,15 +205,18 @@
                 </div>
             </div>
         </div>
-		<div class="siegsieg_logo"><!--Logo Starts Here -->
+		<!--Logo Starts Here
+		<div class="siegsieg_logo">
 			<div id="ss-logo-group">
 				<a href="http://siegsieg.com/" title="SIEGSIEG" rel="home">
 					<img class="img-responsive" src="http://siegsieg.com/images/siegsieg-logo.png" width="auto" height="70" alt="SIEGSIEG" style="height:65px;" />
 				</a>
 			</div>
-		</div><!--End of Logo Here -->
+		</div>
+		End of Logo Here -->
+		<!--Primary Navigation Starts Here
 		<div class="lavish_menus">
-			<div class="lavish_menu"><!--Primary Navigation Starts Here -->
+			<div class="lavish_menu">
 				<ul id="menu-all-pages" class="navmenu">
 					<li id="menu-item-1003" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-1003"><a href="http://siegsieg.com/">Home</a>
 					</li>
@@ -195,8 +274,9 @@
 					<li class="search_triger"><i class="fa fa-search"></i></li>
 				</ul>
 				<a class="toggle_button_lavish_menu"></a>
-			</div><!--End of Primary Navigation -->
+			</div>
 		</div>
+		End of Primary Navigation -->
 		<header>
 			<div id="banner" role="banner">
 			</div>
@@ -229,6 +309,7 @@
 				</form>
 			</div>
 		</header>
+
 		<nav class="menu">
 			<select id="menu-select">
 				<option selected="selected" value="">Go to...</option>
