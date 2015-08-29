@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lavish</title>
+	<!-- href="http://demo.styledthemes.com/lavish/feed/" -->
+	<atom:link href="../lavish/feed/" rel="self" type="application/rss+xml" />
+	<link>http://siegsieg.com/lavish</link>
+	<description>Premium WordPress Theme</description>
+	<lastBuildDate>Fri, 07 Aug 2015 08:33:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.4</generator>
+	<item>
+		<title>Audio Post Format</title>
+		<link>http://demo.styledthemes.com/lavish/2015/04/audio-post-format/</link>
+		<comments>http://demo.styledthemes.com/lavish/2015/04/audio-post-format/#comments</comments>
+		<pubDate>Fri, 17 Apr 2015 11:02:01 +0000</pubDate>
+		<dc:creator><![CDATA[Styled Themes]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.styledthemes.com/lavish/?p=1056</guid>
+		<description><![CDATA[http://sound30.mp3pk.com/320/indian/dilliwaalizaalimgirlfriend/01%20-%20Birthday%20Bash%20Songspk.name.mp3]]></description>
+				<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-1056-2" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://sound30.mp3pk.com/320/indian/dilliwaalizaalimgirlfriend/01%20-%20Birthday%20Bash%20Songspk.name.mp3?_=2" /><a href="http://sound30.mp3pk.com/320/indian/dilliwaalizaalimgirlfriend/01%20-%20Birthday%20Bash%20Songspk.name.mp3">http://sound30.mp3pk.com/320/indian/dilliwaalizaalimgirlfriend/01%20-%20Birthday%20Bash%20Songspk.name.mp3</a></audio>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.styledthemes.com/lavish/2015/04/audio-post-format/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://sound30.mp3pk.com/320/indian/dilliwaalizaalimgirlfriend/01%20-%20Birthday%20Bash%20[Songspk.name].mp3" length="10152021" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://demo.styledthemes.com/lavish/2015/04/hello-world/</link>
+		<comments>http://demo.styledthemes.com/lavish/2015/04/hello-world/#comments</comments>
+		<pubDate>Mon, 06 Apr 2015 10:56:47 +0000</pubDate>
+		<dc:creator><![CDATA[Styled Themes]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.styledthemes.com/lavish/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.styledthemes.com/lavish/2015/04/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Video Post Format</title>
+		<link>http://demo.styledthemes.com/lavish/2015/02/video-post-format/</link>
+		<comments>http://demo.styledthemes.com/lavish/2015/02/video-post-format/#comments</comments>
+		<pubDate>Tue, 10 Feb 2015 09:12:34 +0000</pubDate>
+		<dc:creator><![CDATA[Styled Themes]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.styledthemes.com/demos/flat-responsive/?p=666</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><iframe width="793" height="446" src="https://www.youtube.com/embed/169omU0Et80?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.styledthemes.com/lavish/2015/02/video-post-format/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gallery Post Format</title>
+		<link>http://demo.styledthemes.com/lavish/2015/01/gallery-post-format/</link>
+		<comments>http://demo.styledthemes.com/lavish/2015/01/gallery-post-format/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 10:58:41 +0000</pubDate>
+		<dc:creator><![CDATA[Styled Themes]]></dc:creator>
+				<category><![CDATA[Gallery Post Format]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.styledthemes.com/demos/flat-responsive/?p=531</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[
+<a href='http://demo.styledthemes.com/lavish/style_portfolio/creative/girls-685778_1920/'><img width="150" height="150" src="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/girls-685778_1920-150x150.jpg" class="attachment-thumbnail" alt="girls-685778_1920" data-attachment-id="1029" data-orig-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/girls-685778_1920.jpg" data-orig-size="500,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="girls-685778_1920" data-image-description="" data-medium-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/girls-685778_1920-300x180.jpg" data-large-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/girls-685778_1920.jpg" /></a>
+<a href='http://demo.styledthemes.com/lavish/about-us/about_default/'><img width="150" height="150" src="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/04/about_default-150x150.jpg" class="attachment-thumbnail" alt="about_default" data-attachment-id="1037" data-orig-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/04/about_default.jpg" data-orig-size="455,240" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="about_default" data-image-description="" data-medium-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/04/about_default-300x158.jpg" data-large-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/04/about_default.jpg" /></a>
+<a href='http://demo.styledthemes.com/lavish/style_portfolio/creative/divers-681516_1920/'><img width="150" height="150" src="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/divers-681516_1920-150x150.jpg" class="attachment-thumbnail" alt="divers-681516_1920" data-attachment-id="1028" data-orig-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/divers-681516_1920.jpg" data-orig-size="500,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="divers-681516_1920" data-image-description="" data-medium-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/divers-681516_1920-300x180.jpg" data-large-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/divers-681516_1920.jpg" /></a>
+<a href='http://demo.styledthemes.com/lavish/style_portfolio/creative/portrait-661997_1920/'><img width="150" height="150" src="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/portrait-661997_1920-150x150.jpg" class="attachment-thumbnail" alt="portrait-661997_1920" data-attachment-id="1032" data-orig-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/portrait-661997_1920.jpg" data-orig-size="500,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="portrait-661997_1920" data-image-description="" data-medium-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/portrait-661997_1920-300x180.jpg" data-large-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/portrait-661997_1920.jpg" /></a>
+<a href='http://demo.styledthemes.com/lavish/style_portfolio/creative/woman-674977_1920/'><img width="150" height="150" src="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/woman-674977_1920-150x150.jpg" class="attachment-thumbnail" alt="woman-674977_1920" data-attachment-id="1025" data-orig-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/woman-674977_1920.jpg" data-orig-size="500,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="woman-674977_1920" data-image-description="" data-medium-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/woman-674977_1920-300x180.jpg" data-large-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/woman-674977_1920.jpg" /></a>
+<a href='http://demo.styledthemes.com/lavish/style_portfolio/creative/glamour-678834_1920/'><img width="150" height="150" src="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/glamour-678834_1920-150x150.jpg" class="attachment-thumbnail" alt="glamour-678834_1920" data-attachment-id="1030" data-orig-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/glamour-678834_1920.jpg" data-orig-size="500,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="glamour-678834_1920" data-image-description="" data-medium-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/glamour-678834_1920-300x180.jpg" data-large-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/glamour-678834_1920.jpg" /></a>
+<a href='http://demo.styledthemes.com/lavish/style_portfolio/creative/divers-668777_1920/'><img width="150" height="150" src="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/divers-668777_1920-150x150.jpg" class="attachment-thumbnail" alt="divers-668777_1920" data-attachment-id="1027" data-orig-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/divers-668777_1920.jpg" data-orig-size="500,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="divers-668777_1920" data-image-description="" data-medium-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/divers-668777_1920-300x180.jpg" data-large-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/divers-668777_1920.jpg" /></a>
+<a href='http://demo.styledthemes.com/lavish/style_portfolio/creative/dirt-bike-690770_1280/'><img width="150" height="150" src="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/dirt-bike-690770_1280-150x150.jpg" class="attachment-thumbnail" alt="dirt-bike-690770_1280" data-attachment-id="1026" data-orig-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/dirt-bike-690770_1280.jpg" data-orig-size="500,333" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="dirt-bike-690770_1280" data-image-description="" data-medium-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/dirt-bike-690770_1280-300x200.jpg" data-large-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/dirt-bike-690770_1280.jpg" /></a>
+<a href='http://demo.styledthemes.com/lavish/style_portfolio/creative/maple-leaves-690233_1280/'><img width="150" height="150" src="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/maple-leaves-690233_1280-150x150.jpg" class="attachment-thumbnail" alt="maple-leaves-690233_1280" data-attachment-id="1031" data-orig-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/maple-leaves-690233_1280.jpg" data-orig-size="500,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="maple-leaves-690233_1280" data-image-description="" data-medium-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/maple-leaves-690233_1280-300x180.jpg" data-large-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/maple-leaves-690233_1280.jpg" /></a>
+<a href='http://demo.styledthemes.com/lavish/style_portfolio/creative/pug-690566_1280/'><img width="150" height="150" src="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/pug-690566_1280-150x150.jpg" class="attachment-thumbnail" alt="pug-690566_1280" data-attachment-id="1033" data-orig-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/pug-690566_1280.jpg" data-orig-size="500,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="pug-690566_1280" data-image-description="" data-medium-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/pug-690566_1280-300x180.jpg" data-large-file="http://demo.styledthemes.com/lavish/wp-content/uploads/2015/03/pug-690566_1280.jpg" /></a>
+
+]]></content:encoded>
+			<wfw:commentRss>http://demo.styledthemes.com/lavish/2015/01/gallery-post-format/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>http://www.styledthemes.com</title>
+		<link>http://demo.styledthemes.com/lavish/2015/01/link-post-format/</link>
+		<comments>http://demo.styledthemes.com/lavish/2015/01/link-post-format/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 10:57:38 +0000</pubDate>
+		<dc:creator><![CDATA[Styled Themes]]></dc:creator>
+				<category><![CDATA[Link Post Format]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.styledthemes.com/demos/flat-responsive/?p=529</guid>
+		<description><![CDATA[It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.]]></description>
+				<content:encoded><![CDATA[<p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.styledthemes.com/lavish/2015/01/link-post-format/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Quote Post Format</title>
+		<link>http://demo.styledthemes.com/lavish/2015/01/526/</link>
+		<comments>http://demo.styledthemes.com/lavish/2015/01/526/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 10:56:10 +0000</pubDate>
+		<dc:creator><![CDATA[Styled Themes]]></dc:creator>
+				<category><![CDATA[Quote Post Format]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.styledthemes.com/demos/flat-responsive/?p=526</guid>
+		<description><![CDATA[It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.]]></description>
+				<content:encoded><![CDATA[<p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.styledthemes.com/lavish/2015/01/526/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Aside Post Format</title>
+		<link>http://demo.styledthemes.com/lavish/2015/01/524/</link>
+		<comments>http://demo.styledthemes.com/lavish/2015/01/524/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 10:54:16 +0000</pubDate>
+		<dc:creator><![CDATA[Styled Themes]]></dc:creator>
+				<category><![CDATA[Aside Post Format]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.styledthemes.com/demos/flat-responsive/?p=524</guid>
+		<description><![CDATA[It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. It has survived not only five centuries, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.styledthemes.com/lavish/2015/01/524/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Get awesome image styling</title>
+		<link>http://demo.styledthemes.com/lavish/2015/01/get-awesome-image-styling/</link>
+		<comments>http://demo.styledthemes.com/lavish/2015/01/get-awesome-image-styling/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 10:51:49 +0000</pubDate>
+		<dc:creator><![CDATA[Styled Themes]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.styledthemes.com/demos/flat-responsive/?p=521</guid>
+		<description><![CDATA[It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.]]></description>
+				<content:encoded><![CDATA[<p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.styledthemes.com/lavish/2015/01/get-awesome-image-styling/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Take Advantage of Responsive Design</title>
+		<link>http://demo.styledthemes.com/lavish/2015/01/take-advantage-with-a-jetpack-ready-theme/</link>
+		<comments>http://demo.styledthemes.com/lavish/2015/01/take-advantage-with-a-jetpack-ready-theme/#comments</comments>
+		<pubDate>Mon, 26 Jan 2015 18:21:46 +0000</pubDate>
+		<dc:creator><![CDATA[Styled Themes]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.styledthemes.com/demos/flat-responsive/?p=412</guid>
+		<description><![CDATA[It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorpsum.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.styledthemes.com/lavish/2015/01/take-advantage-with-a-jetpack-ready-theme/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Welcome to Lavish Pro</title>
+		<link>http://demo.styledthemes.com/lavish/2015/01/welcome-to-lavish-pro/</link>
+		<comments>http://demo.styledthemes.com/lavish/2015/01/welcome-to-lavish-pro/#comments</comments>
+		<pubDate>Fri, 23 Jan 2015 07:49:15 +0000</pubDate>
+		<dc:creator><![CDATA[Styled Themes]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.styledthemes.com/demos/flat-responsive/?p=323</guid>
+		<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. <strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.styledthemes.com/lavish/2015/01/welcome-to-lavish-pro/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>
