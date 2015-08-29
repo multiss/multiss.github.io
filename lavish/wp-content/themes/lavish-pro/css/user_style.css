@@ -35,8 +35,11 @@ img.emoji {
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 .tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
 </style>
-<link rel='stylesheet' id='tp-lato-css'  href='http://fonts.googleapis.com/css?family=http%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato&#038;ver=4.2.4' type='text/css' media='all' />
-<link rel='stylesheet' id='tp-shk-css'  href='http://fonts.googleapis.com/css?family=Oswald&#038;ver=4.2.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='tp-lato-css' href='https://fonts.googleapis.com/css?family=Lato' type='text/css' media='all' >
+
+<link rel='stylesheet' id='tp-shk-css' href='https://fonts.googleapis.com/css?family=Oswald' type='text/css' media='all'>
+
 <link rel='stylesheet' id='woocommerce-layout-css'  href='//demo.styledthemes.com/lavish/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.3.8' type='text/css' media='all' />
 <link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//demo.styledthemes.com/lavish/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.8' type='text/css' media='only screen and (max-width: 768px)' />
 <link rel='stylesheet' id='woocommerce-general-css'  href='//demo.styledthemes.com/lavish/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.3.8' type='text/css' media='all' />
@@ -47,11 +50,14 @@ img.emoji {
 <link rel='stylesheet' id='lavish_style_portfolio-css'  href='http://demo.styledthemes.com/lavish/wp-content/themes/lavish-pro/css/style_portfolio.css?ver=1.0.3' type='text/css' media='all' />
 <link rel='stylesheet' id='lavish-css'  href='http://demo.styledthemes.com/lavish/wp-content/themes/lavish-pro/css/navmenu.css?ver=1.0.3' type='text/css' media='all' />
 <link rel='stylesheet' id='lavish-style-css'  href='http://demo.styledthemes.com/lavish/wp-content/themes/lavish-pro/style.css?ver=1.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='lavish-open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C700%2C600&#038;ver=4.2.4' type='text/css' media='all' />
-<link rel='stylesheet' id='lavish-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C900&#038;ver=4.2.4' type='text/css' media='all' />
+
+<link rel='stylesheet' id='lavish-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans' type='text/css' media='all' >
+
+<link rel='stylesheet' id='lavish-lato-css' href='https://fonts.googleapis.com/css?family=Lato' type='text/css' media='all' >
+
 <link rel='stylesheet' id='user_section_styles-css-css'  href='http://demo.styledthemes.com/lavish/wp-content/themes/lavish-pro/css/user_style.css?ver=1' type='text/css' media='all' />
 <link rel='stylesheet' id='jetpack_css-css'  href='http://demo.styledthemes.com/lavish/wp-content/plugins/jetpack/css/jetpack.css?ver=3.4.3' type='text/css' media='all' />
-<link rel='stylesheet' id='wpgmaps-style-css'  href='http://demo.styledthemes.com/lavish/wp-content/plugins/wp-google-maps/css/wpgmza_style.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpgmaps-style-css'  href='../lavish/wp-content/plugins/wp-google-maps/css/wpgmza_style.css?ver=4.2.4' type='text/css' media='all' />
 <script type='text/javascript' src='http://demo.styledthemes.com/lavish/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
 <script type='text/javascript' src='http://demo.styledthemes.com/lavish/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
 <script type='text/javascript' src='http://demo.styledthemes.com/lavish/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.5'></script>
