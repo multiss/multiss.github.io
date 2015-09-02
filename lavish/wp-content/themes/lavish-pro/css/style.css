@@ -49,6 +49,10 @@ Header Top Settings
 .header_social_icons #social-icons {
 	float: none;
 }
+/*
+TO MAKE MENU TRANSPARENT
+change .lavish_header  ( Logo| Home | etc ) value to	background-color: rgba(0,0,0,.8);
+*/
 .lavish_header .lavish_head {
 	background-color: #000;
 }

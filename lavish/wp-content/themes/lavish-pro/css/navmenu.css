@@ -34,7 +34,7 @@ ul.navmenu > li >  a {
 	text-transform: uppercase;
 }
 ul.navmenu > li:hover > a {
-	background-color:#2ab8bd!important;
+	background-color:#228B22!important;
 	color:#fff;
 }
 ul.navmenu > li > a:hover,
@@ -42,7 +42,7 @@ ul.navmenu > li > a:focus,
 ul.navmenu > li > a:active {
 	outline:none;
 	color:#fff;
-	background-color:#2ab8bd;
+	background-color:#228B22;
 }
 ul.navmenu ul.sub-menu {
 	margin:0px;
@@ -54,13 +54,13 @@ ul.navmenu ul.sub-menu {
 	margin-top:0px;
 	top:80px;
 	right: 6.25rem!important;
-	background-color:#2ab8bd;
+	background-color:#228B22;
 }
 
 ul.navmenu ul.sub-menu > li {
 	list-style:none;
 	text-decoration:none;
-	border-top: 1px solid #46CBD0;
+	border-top: 1px solid #008000;
 	display:block;
 	width:100%;
 	margin:0px;
@@ -104,7 +104,7 @@ ul.navmenu ul.sub-menu > li > ul.sub-menu > li > a {
 ul.navmenu ul.sub-menu > li > a:hover,
 ul.navmenu ul.sub-menu > li > a:focus,
 ul.navmenu ul.sub-menu > li > a:active {
-	background-color: #24979B;
+	background-color: #008000;
 	color: #FFF;
 }
 ul.navmenu ul a,
@@ -132,7 +132,7 @@ ul.navmenu li:hover ul ul,
 	outline:none;
 	background-color:none;
 	color:#fff;
-	background-color:#2ab8bd;
+	background-color:#228B22;
 	
 }
 .toggle_button_lavish_menu {
